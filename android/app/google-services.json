@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682483818321",
+    "project_id": "azurenotification-834d7",
+    "storage_bucket": "azurenotification-834d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682483818321:android:d359d539bf40584139fd70",
+        "android_client_info": {
+          "package_name": "com.azurenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEuu8GL8uZN-ky8YC9IVWE7zri5LJr7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
